@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Información del Clima</h1>
+      <h1>Información del Clima Grupo4</h1>
       
       <div className="input-group">
         <input
